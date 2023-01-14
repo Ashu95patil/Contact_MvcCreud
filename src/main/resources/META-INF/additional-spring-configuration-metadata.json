@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "spring.datasource.dbcp2.suffix",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.dbcp2.suffix'"
+  },
+  {
+    "name": "spring.datasource.dbcp2.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.dbcp2.prefix'"
+  },
+  {
+    "name": "spring.datasource.dbcp2.view",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.dbcp2.view'"
+  },
+  {
+    "name": "spring.datasource.dbcp2.mvc",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.dbcp2.mvc'"
+  },
+  {
+    "name": "spring.jpa.spring.jpa.database-platform",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.spring.jpa.database-platform'"
+  },
+  {
+    "name": "spring.app1.messages.save-success",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.app1.messages.save-success'"
+  },
+  {
+    "name": "spring.app1.messages.saveFail",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.app1.messages.saveFail'"
+  }
+]}
